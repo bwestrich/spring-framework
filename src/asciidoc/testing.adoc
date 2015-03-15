@@ -3826,7 +3826,7 @@ mock service with Mockito:
 	</bean>
 ----
 
-Then you can inject the mock service into the test in order set up and verify
+Then you can inject the mock service into the test in order to set up and verify
 expectations:
 
 [source,java,indent=0]
